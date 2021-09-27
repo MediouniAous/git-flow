@@ -1,3 +1,4 @@
 Hello
 I'am adding second ligne 
 ligne de conflit 
+ligne de conflit 2 
